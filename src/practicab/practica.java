@@ -66,6 +66,7 @@ public class practica extends javax.swing.JFrame {
     private void btnactivarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnactivarActionPerformed
        lblmensaje.setText("hola");
        lblMensaje2.setText("Como estas");
+       lblMensaje3.setText("Estoy Bien");
     }//GEN-LAST:event_btnactivarActionPerformed
 
     /**
